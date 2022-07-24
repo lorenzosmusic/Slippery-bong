@@ -530,22 +530,6 @@
         <length from="610616" to="559732"/>
         <position from="2035385" to="2086269"/>
         <beat from="120" to="123"/>
-        <Envelope>
-          <from>
-            <AutomationList automation-id="envelope" id="9780" interpolation-style="Linear" state="Off">
-              <events>0 1
-610616 1
-</events>
-            </AutomationList>
-          </from>
-          <to>
-            <AutomationList automation-id="envelope" id="9781" interpolation-style="Linear" state="Off">
-              <events>0 1
-559732 1
-</events>
-            </AutomationList>
-          </to>
-        </Envelope>
       </Changes>
     </StatefulDiffCommand>
     <MementoCommand obj-id="42" type-name="SelectionMemento">
@@ -730,22 +714,6 @@
     <StatefulDiffCommand obj-id="9834" type-name="ARDOUR::AudioRegion">
       <Changes>
         <length from="135693" to="67846"/>
-        <Envelope>
-          <from>
-            <AutomationList automation-id="envelope" id="9899" interpolation-style="Linear" state="Off">
-              <events>0 1
-135693 1
-</events>
-            </AutomationList>
-          </from>
-          <to>
-            <AutomationList automation-id="envelope" id="9900" interpolation-style="Linear" state="Off">
-              <events>0 1
-67846 1
-</events>
-            </AutomationList>
-          </to>
-        </Envelope>
       </Changes>
     </StatefulDiffCommand>
     <MementoCommand obj-id="42" type-name="SelectionMemento">
