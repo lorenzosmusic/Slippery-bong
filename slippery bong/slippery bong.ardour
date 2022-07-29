@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="3002" name="slippery bong" sample-rate="44100" end-is-free="0" id-counter="14188" name-counter="1" event-counter="805" vca-counter="1">
+<Session version="3002" name="slippery bong" sample-rate="44100" end-is-free="0" id-counter="18486" name-counter="1" event-counter="821" vca-counter="1">
   <ProgramVersion created-with="Ardour 1:5.12.0-3ubuntu4.1" modified-with="Ardour 1:5.12.0-3ubuntu4.1"/>
   <MIDIPorts>
     <Port name="MIDI Clock in" direction="input"/>
@@ -75,6 +75,7 @@
     <Source name="Audio 1-2.3-1.wav" type="audio" flags="" id="1048" captured-for="Audio 1-2.3" channel="0" origin="" gain="1"/>
     <Source name="Audio 1-2.3-2.wav" type="audio" flags="" id="1123" captured-for="Audio 1-2.3" channel="0" origin="" gain="1"/>
     <Source name="organ-1.wav" type="audio" flags="" id="9441" captured-for="organ" channel="0" origin="" gain="1"/>
+    <Source name="eric guitar-1.wav" type="audio" flags="" id="18439" captured-for="eric guitar" channel="0" origin="" gain="1"/>
   </Sources>
   <Regions>
     <Region name="Audio-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1863680" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="233" type="audio" first-edit="nothing" source-0="203" master-source-0="203" channels="1"/>
@@ -958,32 +959,33 @@
     <Region name="Audio 1-2.4 compound-1.53 (1)" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="67847" position="2883462" beat="170.00002721088435" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="36" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="9719" type="audio" first-edit="nothing" source-0="6906" master-source-0="6906" channels="1"/>
     <Region name="organ-1.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="271384" length="610616" position="2069308" beat="122" sync-position="271384" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="9729" type="audio" first-edit="nothing" source-0="9441" master-source-0="9441" channels="1"/>
     <Region name="Audio 1-2.4 compound-1.54 (1)" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="67847" position="2815615" beat="165.99997732426303" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="37" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="9739" type="audio" first-edit="nothing" source-0="6906" master-source-0="6906" channels="1"/>
+    <Region name="eric guitar-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="3194112" position="271385" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="18462" type="audio" first-edit="nothing" source-0="18439" master-source-0="18439" channels="1"/>
   </Regions>
   <CompoundAssociations>
-    <CompoundAssociation copy="5373" original="1079"/>
-    <CompoundAssociation copy="4483" original="4115"/>
-    <CompoundAssociation copy="4492" original="4148"/>
-    <CompoundAssociation copy="4501" original="4181"/>
-    <CompoundAssociation copy="4510" original="4190"/>
+    <CompoundAssociation copy="6852" original="6094"/>
+    <CompoundAssociation copy="6861" original="6129"/>
+    <CompoundAssociation copy="6870" original="6242"/>
     <CompoundAssociation copy="5142" original="4115"/>
     <CompoundAssociation copy="5151" original="4148"/>
     <CompoundAssociation copy="5160" original="4181"/>
     <CompoundAssociation copy="5169" original="4190"/>
-    <CompoundAssociation copy="6870" original="6242"/>
-    <CompoundAssociation copy="6879" original="6351"/>
-    <CompoundAssociation copy="6888" original="6360"/>
-    <CompoundAssociation copy="6897" original="6544"/>
+    <CompoundAssociation copy="5373" original="1079"/>
     <CompoundAssociation copy="5382" original="5209"/>
     <CompoundAssociation copy="5859" original="5666"/>
     <CompoundAssociation copy="5868" original="5675"/>
     <CompoundAssociation copy="5877" original="5489"/>
     <CompoundAssociation copy="5886" original="5498"/>
     <CompoundAssociation copy="5895" original="5209"/>
-    <CompoundAssociation copy="6852" original="6094"/>
-    <CompoundAssociation copy="6861" original="6129"/>
+    <CompoundAssociation copy="4483" original="4115"/>
+    <CompoundAssociation copy="4492" original="4148"/>
+    <CompoundAssociation copy="4501" original="4181"/>
+    <CompoundAssociation copy="4510" original="4190"/>
+    <CompoundAssociation copy="6879" original="6351"/>
+    <CompoundAssociation copy="6888" original="6360"/>
+    <CompoundAssociation copy="6897" original="6544"/>
   </CompoundAssociations>
   <Selection>
-    <StripableAutomationControl stripable="637" control="0" order="4"/>
+    <StripableAutomationControl stripable="18394" control="0" order="0"/>
   </Selection>
   <Locations>
     <Location id="254" name="session" start="271385" end="3205731" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
@@ -1002,12 +1004,14 @@
           <Connection other="Audio/audio_out 1"/>
           <Connection other="Drums/audio_out 1"/>
           <Connection other="Stick on Bench/audio_out 1"/>
+          <Connection other="eric guitar/audio_out 1"/>
           <Connection other="organ/audio_out 1"/>
         </Port>
         <Port type="audio" name="Master/audio_in 2">
           <Connection other="Audio/audio_out 2"/>
           <Connection other="Drums/audio_out 2"/>
           <Connection other="Stick on Bench/audio_out 2"/>
+          <Connection other="eric guitar/audio_out 2"/>
           <Connection other="organ/audio_out 2"/>
         </Port>
       </IO>
@@ -2047,6 +2051,85 @@
       <Controllable name="rec-safe" id="9434" flags="Toggle,RealTime" value="0"/>
       <Controllable name="rec-enable" id="9432" flags="Toggle,RealTime" value="0"/>
       <Diskstream flags="Recordable" playlist="organ.1" name="organ" id="9437" speed="1" capture-alignment="Automatic" record-safe="0" channels="1"/>
+    </Route>
+    <Route id="18394" name="eric guitar" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" mode="Normal">
+      <PresentationInfo order="5" flags="AudioTrack,OrderSet" color="3850679807"/>
+      <Controllable name="solo" id="18402" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
+      <Controllable name="solo-iso" id="18408" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
+      <Controllable name="solo-safe" id="18410" flags="Toggle" value="0" solo-safe="0"/>
+      <IO name="eric guitar" id="18422" direction="Input" default-type="audio" user-latency="0">
+        <Port type="audio" name="eric guitar/audio_in 1"/>
+      </IO>
+      <IO name="eric guitar" id="18423" direction="Output" default-type="audio" user-latency="0">
+        <Port type="audio" name="eric guitar/audio_out 1">
+          <Connection other="Master/audio_in 1"/>
+        </Port>
+        <Port type="audio" name="eric guitar/audio_out 2">
+          <Connection other="Master/audio_in 2"/>
+        </Port>
+      </IO>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
+      <Controllable name="mute" id="18404" flags="Toggle,RealTime" value="0"/>
+      <Controllable name="phase" id="18406" flags="Toggle" value="0" phase-invert="0"/>
+      <Automation>
+        <AutomationList automation-id="solo" id="18401" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="solo-iso" id="18407" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="solo-safe" id="18409" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="mute" id="18403" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="rec-enable" id="18429" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="rec-safe" id="18431" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="phase" id="18405" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="monitor" id="18433" interpolation-style="Discrete" state="Off"/>
+      </Automation>
+      <Pannable>
+        <Controllable name="pan-azimuth" id="18413" flags="" value="0.5"/>
+        <Controllable name="pan-width" id="18417" flags="" value="0"/>
+        <Controllable name="pan-elevation" id="18415" flags="" value="0"/>
+        <Controllable name="pan-frontback" id="18419" flags="" value="0"/>
+        <Controllable name="pan-lfe" id="18421" flags="" value="0"/>
+        <Automation>
+          <AutomationList automation-id="pan-azimuth" id="18412" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-elevation" id="18414" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-width" id="18416" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-frontback" id="18418" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-lfe" id="18420" interpolation-style="Linear" state="Off"/>
+        </Automation>
+      </Pannable>
+      <Processor id="18425" name="Amp" active="1" user-latency="0" type="trim">
+        <Automation>
+          <AutomationList automation-id="trim" id="18399" interpolation-style="Linear" state="Off"/>
+        </Automation>
+        <Controllable name="trimcontrol" id="18400" flags="GainLike" value="1"/>
+      </Processor>
+      <Processor id="18424" name="Amp" active="1" user-latency="0" type="amp">
+        <Automation>
+          <AutomationList automation-id="gain" id="18397" interpolation-style="Linear" state="Off"/>
+        </Automation>
+        <Controllable name="gaincontrol" id="18398" flags="GainLike" value="1"/>
+      </Processor>
+      <Processor id="18426" name="meter-eric guitar" active="1" user-latency="0" type="meter"/>
+      <Processor id="18427" name="eric guitar" active="1" user-latency="0" own-input="1" own-output="0" output="eric guitar" type="main-outs" role="Main">
+        <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
+        <Pannable>
+          <Controllable name="pan-azimuth" id="18413" flags="" value="0.5"/>
+          <Controllable name="pan-width" id="18417" flags="" value="0"/>
+          <Controllable name="pan-elevation" id="18415" flags="" value="0"/>
+          <Controllable name="pan-frontback" id="18419" flags="" value="0"/>
+          <Controllable name="pan-lfe" id="18421" flags="" value="0"/>
+          <Automation>
+            <AutomationList automation-id="pan-azimuth" id="18412" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-elevation" id="18414" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-width" id="18416" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-frontback" id="18418" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-lfe" id="18420" interpolation-style="Linear" state="Off"/>
+          </Automation>
+        </Pannable>
+      </Processor>
+      <Slavable/>
+      <Controllable name="monitor" id="18434" flags="RealTime" value="0" monitoring=""/>
+      <Controllable name="rec-safe" id="18432" flags="Toggle,RealTime" value="0"/>
+      <Controllable name="rec-enable" id="18430" flags="Toggle,RealTime" value="0"/>
+      <Diskstream flags="Recordable" playlist="eric guitar.1" name="eric guitar" id="18435" speed="1" capture-alignment="Automatic" record-safe="0" channels="1"/>
     </Route>
   </Routes>
   <Playlists>
@@ -5003,6 +5086,39 @@
         </InverseFadeOut>
       </Region>
     </Playlist>
+    <Playlist id="18436" name="eric guitar.1" type="audio" orig-track-id="18394" shared-with-ids="" frozen="0" combine-ops="0">
+      <Region name="eric guitar-1.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="3194112" position="271385" beat="16.000022675736961" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="18470" type="audio" first-edit="nothing" source-0="18439" master-source-0="18439" channels="1">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="18471" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="18472" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="18473" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="18474" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+    </Playlist>
   </Playlists>
   <UnusedPlaylists/>
   <RouteGroups/>
@@ -5085,7 +5201,7 @@
       <Window name="add-routes" visible="0" x-off="-1" y-off="-1" x-size="679" y-size="509"/>
       <Window name="add-video" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="inspector" visible="0" x-off="37" y-off="55" x-size="620" y-size="370"/>
-      <Window name="audio-midi-setup" visible="0" x-off="691" y-off="321" x-size="537" y-size="438"/>
+      <Window name="audio-midi-setup" visible="0" x-off="1170" y-off="0" x-size="582" y-size="438"/>
       <Window name="video-export" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="script-manager" visible="0" x-off="839" y-off="381" x-size="341" y-size="372"/>
       <Window name="bundle-manager" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
@@ -5155,6 +5271,15 @@
       <Window name="PM-9426-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-9428-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-9429-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-18394" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-18394-18425" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-18394-18424" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-18394-18426" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-18394-18427" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="PM-18425-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-18424-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-18426-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-18427-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <GUIObjectState>
         <Object id="rtav 54" height="66" visible="1"/>
         <Object id="automation 58" height="66" visible="0"/>
@@ -5206,6 +5331,14 @@
         <Object id="automation 9415" height="66" visible="0"/>
         <Object id="strip 9396" strip-width="Wide" visible="1">
           <Object id="processor 9426"/>
+        </Object>
+        <Object id="rtav 18394" height="66" visible="1"/>
+        <Object id="automation 18398" height="66" visible="0"/>
+        <Object id="automation 18400" height="66" visible="0"/>
+        <Object id="automation 18394 12/0/0" height="66" visible="0"/>
+        <Object id="automation 18413" height="66" visible="0"/>
+        <Object id="strip 18394" strip-width="Wide" visible="1">
+          <Object id="processor 18424"/>
         </Object>
       </GUIObjectState>
     </UI>
